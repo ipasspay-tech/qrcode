@@ -8,6 +8,6 @@
             "email": "administrator@administratordeMacBook-Air.local"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
