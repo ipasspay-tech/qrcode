@@ -1,13 +1,16 @@
 {
     "name": "afonso/phpqrcode",
-    "description": "qrcode",
     "type": "library",
-    "authors": [
-        {
-            "name": "administrator",
-            "email": "administrator@administratordeMacBook-Air.local"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {}
+    "description": "qrcode",
+    "homepage": "https://github.com/ipasspay-tech/qrcode.git",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "afonso",
+        "email": "tech@ipasspay.com"
+    }],
+    "minimum-stability": "dev"
 }
+
